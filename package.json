@@ -1,0 +1,17 @@
+{
+  "name": "fs-part5-blog-list-tests",
+  "version": "1.0.0",
+  "description": "End to end tests for blog list app on Full Stack Open course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.11"
+  }
+}
